@@ -1,0 +1,19 @@
+:root {
+  --dark-cyan: hsl(185, 75%, 39%);
+}
+
+html {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  font-size: 62.5%;
+}
+
+*, *:before, *:after {
+  -webkit-box-sizing: inherit;
+          box-sizing: inherit;
+}
+
+body {
+  font-family: "Kumbh Sans", sans-serif;
+  background-image: linear-gradient(120deg, #84fab0 0%, #8fd3f4 100%);
+}
